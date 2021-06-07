@@ -6,6 +6,7 @@ function changeBorder() {
     if (element.hasAttribute("required") && element.value == "") {
       element.style.border = "1px solid red";
       alert("Input is invalid!!!");
+      break;
     }
   }
-}
+};
