@@ -1,0 +1,39 @@
+#bodyMove{
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background-image: url('img/bg.jpg');
+
+}
+img{
+    width: 100%;
+    height: 600px;
+}
+#mario{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 110px;
+    left: 45%;
+}
+
+/* body {
+    background-image: url(./assets/bg.jpg);
+    background-size: cover;
+    background-repeat: repeat-x;
+    height: 100%;
+    background-position-x: 1px;
+}
+
+img {
+    position: absolute;
+    bottom: 9%;
+    left: 40%;
+}
+
+.run {
+    position: absolute;
+    bottom: 9%;
+    left: 40%;
+}
+ */
