@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+  }
+h1{
+    text-align: center;
+}
+.container{
+    border: 1px solid black;
+    padding: 10px;
+}
+.container p{
+    margin-bottom: 0px;
+}
+.form{
+    width: 100%;
+    border: 1px solid black;
+    padding: 5px;
+}
+input{
+    width: 100%;
+    margin: 10px 0px;
+}
+select{
+    width: 100%;
+    margin-top: 5px;
+}
+.greenBtn{
+    background-color: rgb(3, 143, 3);
+    color: white;
+    padding: 5px;
+}
+
