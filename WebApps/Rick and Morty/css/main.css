@@ -1,0 +1,39 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.greenBut {
+  background-color: green;
+}
+
+body {
+  background-image: url("https://www.pennlive.com/resizer/zvSjAk0Q2-XXnDZIY_9zKiysqjY=/arc-anglerfish-arc2-prod-advancelocal/public/ACXV2CFUHFBMPP3KKKAUBPTKI4.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+p {
+  color: white;
+  font-weight: bold;
+  font-size: larger;
+}
+
+#character img:hover, #character p:hover {
+  padding: 5px;
+  -webkit-transition: 5ms;
+  transition: 5ms;
+  cursor: pointer;
+}
+
+.info p {
+  color: black;
+  font-size: x-large;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0px;
+}
+/*# sourceMappingURL=main.css.map */
